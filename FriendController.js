@@ -7,7 +7,7 @@ app.controller('FriendController', function($scope){
 	$scope.searchTerm = '';
 	$scope.searchLocation = '';
 	$scope.attributeSort = '';
-	$scope.ascDes = '';
+	$scope.ascDes = "+";
 	$scope.friends = [
     {
         "name": "Preston McNeil",
