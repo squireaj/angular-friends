@@ -27,6 +27,8 @@ input, select, form, ul {
 }
 
 .friends{
+	max-width: 500px;
+	margin: 0 auto;
 
 }
 
@@ -34,6 +36,7 @@ input, select, form, ul {
 	width: 500px;
 	margin: auto;
 	margin-top: 10px;
+	max-width: 500px;
 }
 .friends li {
 	font-size: 14px;
